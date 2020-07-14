@@ -28,22 +28,22 @@ sidebar:
 
     languages:
       - idiom: English
-        level: Native
+        level: Medium
 
-      - idiom: French
+      - idiom: Myanmar
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: 
+        level: 
 
     interests:
-      - item: Climbing
+      - item: Swimming
         link:
 
-      - item: Snowboarding
+      - item: Travelling
         link:
 
-      - item: Cooking
+      - item: Chilling
         link:
 
 career-profile:
@@ -169,23 +169,26 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: PHP (Laravel)
         level: 98%
 
       - name: Javascript & jQuery
         level: 98%
 
-      - name: Angular
+      - name: HTML5 & CSS
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Boothstrap
         level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
 
       - name: Sketch & Photoshop
         level: 60%
+
+      - name: Vue js
+        level: 40%
+
+      - name: Next js
+        level: 40%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
