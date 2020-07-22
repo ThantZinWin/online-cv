@@ -27,14 +27,11 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
-        level: Medium
-
       - idiom: Myanmar
-        level: Professional
+        level: 1
 
-      - idiom: 
-        level: 
+      - idiom: English
+        level: 2
 
     interests:
       - item: Swimming
@@ -56,92 +53,90 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: BA(Eco)
+    - degree: Bachelor of Economic (B.A(Eco))
       university: University of Monywa Economic
       time: 2012 - 2015
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
+    - degree: PHP Developer (Software)
+      Course: IMCS, Yangon
+      time: 2015
+
+    - degree: Certificate Graphic Design (Photoshop)
+      Course: MCG, Monywa
+      time: 2015
+
+    - degree: Certificate Web Design
+      Course: Value Star, Myanmar
+      time: 2015
+      
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Web Developer
+      time: 2017 - Present
+      company: ABC-MIB Group Company, Yangon, Myanmar
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        - Prepare frontend design and backend for ecommerce online shop in start project
+        - Developing, Designing and Implementing internet web applications
+        - Designing mokup for laravel, CMS with git and Implementing Database Schema
+        - Error Solving, Finding the requirements to website
+        - Upload to server(digital ocean) after testing to website
+        - Report to project mananger
+        - Follow up the pending websites
+        - Back up website and website checklist
+    - role: Web Developer
+      time: April,2017 - Oct,2015
+      company: Newworth, Yangon, Myanmar
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        - Prepare develop other innovate websites
+        - Design Photos with Photoshop for Facebook pages
+        - Developing, Designing and Implementing internet web applications and web portals
+        - Designing and Implementing Database Schema
+        - Solving user acceptance testing for websites
+        - Meeting with customer for requirement gathering
+        - Designing mokup for HTML, CSS, Responsive and Wordpress Theme
+        - Follow up the pending websites
+        - Error Solving, Finding the requirements to website
+        - Back up website and website checklist
+    - role: Junior Web Developer
+      time: Mar 2016 – Mar 2017
+      company: Myanmar Webdesigner(MWD), Yangon, Myanmar
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Developing, Designing and Implementing internet web applications and web portals
+        - Designing and Implementing Database Schema
+        - Maintaining and enchancing internet web applications and web portals
+        - Conducting user acceptance testing for websites
+        - Meeting with customer for requirement gathering
+        - Performing Software/Websites QA Testing
+        - Designing mokup for HTML, CSS, Responsive and Wordpress Theme
+        - Follow up the pending websites
+        - Error Solving, Finding the requirements to website
+        - Design template with Photoshop
+        - Back up website and website checklist
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
+      # You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: ABC-Mall Online Shopping
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Web and Mobile app Deployment on Ecommerce website Deployment."
 
-      - title: Tempo
+      - title: D2D Flower(Zay2Go)
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Deployment on Backend Website & Mobile Application."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Jobscanner (Myanmar Online Jobs Portal)
+        link: "https://jobscanner.com.mm/"
+        tagline: "Deployment on A responsive Frontend Website and Backend Website."
 
-      - title: Delta
+      - title: Ledi Meditation (The Pagoda Website)
+        link: "#http://ledimeditation.com/"
+        tagline: "Deployment on A responsive Frontend Website and Backend Website."
+
+      - title: Sirika
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Deployment on A responsive Frontend Website and Backend Ecommerce website Deployment."
 
 publications:
     title: Publications
@@ -172,16 +167,22 @@ skills:
       - name: PHP (Laravel)
         level: 98%
 
+      - name: CMS (Wordpress)
+        level: 98%
+
+      - name: API (Graphql, REST)
+        level: 95%
+
       - name: Javascript & jQuery
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: HTML & CSS
         level: 98%
 
       - name: Boothstrap
         level: 95%
 
-      - name: Sketch & Photoshop
+      - name: Photoshop
         level: 60%
 
       - name: Vue js
